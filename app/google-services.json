@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665764295705",
+    "project_id": "shelf-organizer-298b0",
+    "storage_bucket": "shelf-organizer-298b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665764295705:android:b6a1852492217f7ec16688",
+        "android_client_info": {
+          "package_name": "com.example.shelforganizer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn-D-Fo32SRvhcgo97kmi_KFAXyR92ERY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
